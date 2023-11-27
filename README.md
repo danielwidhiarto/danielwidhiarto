@@ -16,6 +16,6 @@ Welcome to my GitHub profile! Feel free to explore the repositories and projects
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto&layout=compact)
 
 Thanks for visiting! 😊

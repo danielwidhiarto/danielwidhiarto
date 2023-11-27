@@ -1,19 +1,21 @@
-### Hi there 👋
+### Hi there! 👋 I'm [Emmanuel Daniel Widhiarto]
 
-<!--
-**danielwidhiarto/danielwidhiarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Feel free to explore the repositories and projects I've been working on. If you have any questions or suggestions, don't hesitate to reach out.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+- 🔭 I’m currently working on **diary.ly** - A mobile app for mood tracking and diary notes.
+- 🌱 I’m currently learning about Web and Networks.
+- 👯 I’m open to collaboration, let's build something together!
+- ⚡ Fun fact: I enjoy coding all day!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielwidhiarto&repo=convoychat" />
+### Get in Touch
+
+- 📫 How to reach me: [danielwidhiarto@gmail.com]
+- LinkedIn [Your LinkedIn Profile](https://www.linkedin.com/in/danielwidhiarto/)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+Thanks for visiting! 😊

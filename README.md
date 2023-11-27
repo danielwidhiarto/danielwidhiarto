@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-<a href="https://github.com/danielwidhiarto/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielwidhiarto&repo=convoychat" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielwidhiarto&repo=convoychat" />

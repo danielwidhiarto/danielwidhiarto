@@ -5,14 +5,14 @@ Welcome to my GitHub profile! Feel free to explore the repositories and projects
 ### About Me
 
 - 🔭 I’m currently working on **diary.ly** - A mobile app for mood tracking and diary notes.
-- 🌱 I’m currently learning about Web and Networks.
+- 🌱 I’m currently learning about Game Dev, Web and Networks.
 - 👯 I’m open to collaboration, let's build something together!
 - ⚡ Fun fact: I enjoy coding all day!
 
 ### Get in Touch
 
 - 📫 How to reach me: [danielwidhiarto@gmail.com]
-- LinkedIn [Your LinkedIn Profile](https://www.linkedin.com/in/danielwidhiarto/)
+- LinkedIn [Emmanuel Daniel Widhiarto](https://www.linkedin.com/in/danielwidhiarto/)
 
 ### Top Languages
 

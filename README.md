@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Feel free to explore the repositories and projects
 - 📫 How to reach me: danielwidhiarto@gmail.com
 - LinkedIn [Emmanuel Daniel Widhiarto](https://www.linkedin.com/in/danielwidhiarto/)
 
-### Top Languages
+### My Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto&layout=compact)
 

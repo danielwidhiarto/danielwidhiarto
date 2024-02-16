@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Feel free to explore the repositories and projects
 
 ### About Me
 
-- 🔭 I’m currently working on **diary.ly** - A mobile app for mood tracking and diary notes.
+- 🔭 I’m currently working on **quiz-keeper**.
 - 🌱 I’m currently learning about Game Dev, Web, Mobile, and Networks.
 - 👯 I’m open to collaboration, let's build something together!
 - ⚡ Fun fact: I enjoy coding while sleeping!

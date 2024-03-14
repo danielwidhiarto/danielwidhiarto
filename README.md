@@ -18,4 +18,7 @@ Welcome to my GitHub profile! Feel free to explore the repositories and projects
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto&langs_count=6&layout=compact)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danielwidhiarto)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Thanks for visiting! 😊

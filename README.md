@@ -17,5 +17,8 @@ Welcome to my GitHub profile! Feel free to explore the repositories and projects
 ### My Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto&langs_count=10&layout=compact)
+![danielwidhiarto's Stats](https://github-readme-stats.vercel.app/api?username=danielwidhiarto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![danielwidhiarto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielwidhiarto&theme=vue-dark&hide_border=true)
+![danielwidhiarto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 Thanks for visiting! 😊

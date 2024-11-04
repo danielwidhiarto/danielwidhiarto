@@ -12,11 +12,20 @@ Welcome to my GitHub profile! I'm passionate about creating impactful projects a
 ### 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=black)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=black)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=black)
 
 ### 📊 My GitHub Stats
 

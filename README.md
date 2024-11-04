@@ -1,58 +1,40 @@
 ### Hi there! 👋 I'm Emmanuel Daniel Widhiarto
 
-Welcome to my GitHub profile! Dive into my projects, and if something piques your interest, feel free to reach out. I'm always open to questions, suggestions, or just a friendly chat.
+Welcome to my GitHub profile! I'm passionate about creating impactful projects and continuously expanding my skill set. Feel free to explore my repositories and projects below. If you have any questions or suggestions, don't hesitate to reach out.
 
----
+### 🔍 About Me
 
-### About Me
+- 🔭 **Current Project:** I'm actively working on [**mj-training-camp-webapp**](https://github.com/danielwidhiarto/mj-training-camp-webapp).
+- 🌱 **Learning:** Exploring Game Development, Web Development, Mobile Applications, and Networking.
+- 👯 **Collaboration:** Open to collaborating on exciting projects—let's build something amazing together!
+- ⚡ **Fun Fact:** I enjoy coding even in my sleep! 💤💻
 
-- 🔭 **Currently working on**: [mj-training-camp-webapp](https://github.com/your-repo-link) 
-- 🌱 **Learning**: Game Development, Web & Mobile Development, and Networking.
-- 👯 **Collaborating**: Let's build something awesome together!
-- ⚡ **Fun fact**: I can code even while dreaming!
+### 🛠️ Technologies & Tools
 
----
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-### Tech Stack
+### 📊 My GitHub Stats
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielwidhiarto&show_icons=true&theme=dracula&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-### 📊 GitHub Stats
+### 📈 GitHub Activity
 
-![danielwidhiarto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielwidhiarto&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielwidhiarto&theme=dracula&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto&layout=compact&theme=default&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danielwidhiarto&theme=dracula&hide_border=true)
 
-### 🏆 GitHub Trophies
+### 📫 Get in Touch
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=danielwidhiarto&theme=flat&no-frame=true&margin-w=5&margin-h=5)
-
----
-
-### Get in Touch
-
-- 📫 **Email**: danielwidhiarto@gmail.com
-- 💼 **LinkedIn**: [Emmanuel Daniel Widhiarto](https://www.linkedin.com/in/danielwidhiarto/)
+- **Email:** [danielwidhiarto@gmail.com](mailto:danielwidhiarto@gmail.com)
+- **LinkedIn:** [Emmanuel Daniel Widhiarto](https://www.linkedin.com/in/danielwidhiarto/)
 
 ---
 
 Thanks for visiting! 😊
-
----
-
-### Additional Enhancements (Optional)
-
-1. **Profile Views Counter**  
-   ![Profile Views](https://komarev.com/ghpvc/?username=danielwidhiarto&color=blue)
-
-2. **Activity Graph**  
-   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danielwidhiarto&theme=react-dark)
-
-3. **More Badges**  
-   Explore [Shields.io](https://shields.io/) to add more badges like GitHub followers, repo stars, and more!

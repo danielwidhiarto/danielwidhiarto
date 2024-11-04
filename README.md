@@ -38,18 +38,3 @@ Welcome to my GitHub profile! I'm passionate about creating impactful projects a
 ---
 
 Thanks for visiting! 😊
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielwidhiarto&label=Profile%20views&color=0e75b6&style=flat" alt="danielwidhiarto" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielwidhiarto" alt="danielwidhiarto" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielwidhiarto&show_icons=true&locale=en&layout=compact" alt="danielwidhiarto" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielwidhiarto&show_icons=true&locale=en" alt="danielwidhiarto" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielwidhiarto&" alt="danielwidhiarto" /></p>
-

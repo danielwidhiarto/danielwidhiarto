@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about creating impactful projects a
 
 ### 🔍 About Me
 
-- 🔭 **Current Project:** I'm actively working on [**mj-training-camp-webapp**](https://github.com/danielwidhiarto/mj-training-camp-webapp).
+- 🔭 **Current Project:** I'm actively working on [**mj-training-camp-webapp**]((https://github.com/danielwidhiarto/MJTrainingCamp)).
 - 🌱 **Learning:** Exploring Game Development, Web Development, Mobile Applications, and Networking.
 - 👯 **Collaboration:** Open to collaborating on exciting projects—let's build something amazing together!
 - ⚡ **Fun Fact:** I enjoy coding even in my sleep! 💤💻
@@ -27,8 +27,6 @@ Welcome to my GitHub profile! I'm passionate about creating impactful projects a
 ### 📈 GitHub Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielwidhiarto&theme=dracula&hide_border=true)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danielwidhiarto&theme=dracula&hide_border=true)
 
 ### 📫 Get in Touch
 

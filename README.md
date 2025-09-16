@@ -30,13 +30,13 @@ Welcome to my GitHub profile! I'm passionate about creating impactful projects a
 
 ### 📊 My GitHub Stats
 
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielwidhiarto&show_icons=true&theme=dracula&hide_border=true)
+<!-- ![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielwidhiarto&show_icons=true&theme=dracula&hide_border=true) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-### 📈 GitHub Activity
+<!-- ### 📈 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielwidhiarto&theme=dracula&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielwidhiarto&theme=dracula&hide_border=true) -->
 
 ### 📫 Get in Touch
 

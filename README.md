@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm passionate about creating impactful projects a
 
 ### 🔍 About Me
 
-- 🔭 **Current Project:** I'm actively working on [**mj-training-camp-webapp**](https://github.com/danielwidhiarto/MJTrainingCamp).
-- 🌱 **Learning:** Exploring Game Development, Web Development, Mobile Applications, and Networking.
+- 🔭 **Current Project:** I'm currently free!, contact me if you want to collab.
+- 🌱 **Learning:** Exploring Artificial Intelligence and Machine Learning.
 - 👯 **Collaboration:** Open to collaborating on exciting projects—let's build something amazing together!
 - ⚡ **Fun Fact:** I enjoy coding even in my sleep! 💤💻
 

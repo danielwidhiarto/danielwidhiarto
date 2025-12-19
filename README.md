@@ -1,13 +1,17 @@
 ### Hi there! 👋 I'm Emmanuel Daniel Widhiarto
 
-Welcome to my GitHub profile! I'm passionate about creating impactful projects and continuously expanding my skill set. Feel free to explore my repositories and projects below. If you have any questions or suggestions, don't hesitate to reach out.
+Welcome to my GitHub profile! I'm passionate about building real-world systems—from clean UIs to data-driven backends—and continuously expanding my skill set. Feel free to explore my repositories below. If you’re interested in collaborating, don’t hesitate to reach out.
+
+---
 
 ### 🔍 About Me
 
-- 🔭 **Current Project:** I'm currently free!, contact me if you want to collab.
-- 🌱 **Learning:** Exploring Artificial Intelligence and Machine Learning.
-- 👯 **Collaboration:** Open to collaborating on exciting projects—let's build something amazing together!
-- ⚡ **Fun Fact:** I enjoy coding even in my sleep! 💤💻
+- 🔭 **Current Status:** Open for collaboration and new projects
+- 🌱 **Focus:** Applied Artificial Intelligence & Machine Learning
+- 👯 **Collaboration:** Always open to building impactful and meaningful systems
+- ⚡ **Fun Fact:** I enjoy turning ideas into working systems, end to end
+
+---
 
 ### 🛠️ Technologies & Tools
 
@@ -28,8 +32,16 @@ Welcome to my GitHub profile! I'm passionate about creating impactful projects a
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-### 📊 My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto)
+---
+
+### 📊 Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto&layout=pie&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danielwidhiarto&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
 
 ### 📫 Get in Touch
 

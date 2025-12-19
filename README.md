@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about creating impactful projects a
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ### 📊 My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto&theme=dracula&layout=compact&hide=python&hide_border=true)
 
 ### 📫 Get in Touch
 

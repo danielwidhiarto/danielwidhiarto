@@ -36,8 +36,8 @@ Welcome to my GitHub profile! I'm passionate about building real-world systemsâ€
 
 ### ðŸ“Š Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto&layout=compact&langs_count=10&hide_border=true" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto&layout=compact&langs_count=20&hide_border=true&custom_title=Top%20Languages" />
 </p>
 
 ---

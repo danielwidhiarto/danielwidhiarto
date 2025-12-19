@@ -37,8 +37,8 @@ Welcome to my GitHub profile! I'm passionate about building real-world systemsâ€
 ### ðŸ“Š Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto&layout=pie&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danielwidhiarto&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto&layout=compact&langs_count=10&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danielwidhiarto&layout=compact&hide_border=true" />
 </p>
 
 ---

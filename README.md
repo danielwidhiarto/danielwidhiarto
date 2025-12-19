@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm passionate about creating impactful projects a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielwidhiarto&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-<!-- ### 📈 GitHub Activity
+### 📈 GitHub Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielwidhiarto&theme=dracula&hide_border=true) -->
 
